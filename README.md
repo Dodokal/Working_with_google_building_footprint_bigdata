@@ -33,6 +33,6 @@ This will generate a shapefile containing only the buildings within the area of 
 # Credits
 Uses the following open data:
 
-Buildings CSV from HotOSM: https://sites.research.google/open-buildings/#dataformat
+Buildings CSV from Open Buildings: https://sites.research.google/open-buildings/#dataformat
 
 Area of interest shapefile
