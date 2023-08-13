@@ -24,4 +24,5 @@ This will generate a shapefile containing only the buildings within the area of 
 Uses the following open data:
 
 Buildings CSV from HotOSM: https://sites.research.google/open-buildings/#dataformat
+
 Area of interest shapefile
